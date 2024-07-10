@@ -10,4 +10,4 @@ npm i
 
 ## Config.env
 
-Replace all environment variables values with your's.
+All environment variables values.
